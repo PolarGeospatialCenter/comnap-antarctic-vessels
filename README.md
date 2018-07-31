@@ -6,7 +6,7 @@ The Council of Managers of National Antarctic Programs (COMNAP) maintains a cura
 The COMNAP Antarctic Vessels is a comprehensive list of the vessels administered by/for National Antarctic Programs operating below 60°S latitude for science/science support and logistics purposes. See 'Information' tab of Excel spreadsheet (`.xls`) in the `dist` directory for a reference of fields / attributes included in the dataset. The information included in the datasets was provided by each National Antarctic Program to COMNAP and is updated frequently. COMNAP will release scheduled updates of this dataset. If you would like to be notified of changes, you can watch this repository.
 
 ## Download
-Version `1.0.0` coming soon.
+Version `1.0.0` released 31 July 2018.
 
 #### [Download Latest](https://github.com/PolarGeospatialCenter/comnap-antarctic-vessels/releases)
 
