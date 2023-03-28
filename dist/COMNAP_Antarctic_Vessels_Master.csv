@@ -1,69 +1,73 @@
 Name,Country,National Antarctic Program,Status,Period of Operation in Antarctic Treaty Area,Type of Vessel,Polar Class (IACS),Length (m),Beam (m),Gross Tonnage (t),Maximum Crew,Maximum Passenger,Photo URL,Photo Credit
-Almirante Irizar,Argentina,Direcci—n Nacional del Ant‡rtico,In Service,January;February;March;November;December,,,121,25,14,230,83,https://pgc.quickbase.com/up/bmicj3ee9/a/r5/e15/v0/Almirante%20Irizar.jpg,http://www.irizar.mindef.gob.ar/
-Bahia Agradable ,Argentina,Direcci—n Nacional del Ant‡rtico,In Service,January;February;March;November;December,,,180,20,2723,58,13,,
-Canal Beagle,Argentina,Direcci—n Nacional del Ant‡rtico,In Service,January;February;March;April;December,Cargo,,,17.5,"10,894",40,80,,
-Islas Malvinas,Argentina,Direcci—n Nacional del Ant‡rtico,,,,,,,,,,,
-Puerto Argentino,Argentina,Direcci—n Nacional del Ant‡rtico,In Service,January;February;March;December,,,81,16,2723,67,,https://pgc.quickbase.com/up/bmicj3ee9/a/r66/e15/v0/aviso_puerto_argentino.jpg,https://www.argentina.gob.ar/aviso-ara-puerto-argentino-21
-Puerto Deseado,Argentina,Direcci—n Nacional del Ant‡rtico,In Service,,Research,,,13.2,2400,61,80,,
-Suboficial Castillo,Argentina,Direcci—n Nacional del Ant‡rtico,,,,,,11.7,1789,64,,,
-Aurora Australis,Australia,Australian Antarctic Division,Decommissioned,January;February;March;October;November;December,Multi Purpose,,94.91,20.3,3091,27,116,https://pgc.quickbase.com/up/bmicj3ee9/a/r11/e15/v0/Aurora%20Australis.jpg,Wendy Pyper
-Everest,Australia,Australian Antarctic Division,In Service,,Multi Purpose,,140,,"21,943",,,https://pgc.quickbase.com/up/bmicj3ee9/a/r68/e15/v0/antarctic.jpg,MCS/AAD
+Almirante Irizar,Argentina,National Antarctic Directorate,In Service,January;February;March;November;December,,,121,25,14,230,83,https://comnap.quickbase.com/up/bmicj3ee9/a/r5/e15/v0/Almirante%20Irizar.jpg,http://www.irizar.mindef.gob.ar/
+Bahia Agradable ,Argentina,National Antarctic Directorate,In Service,January;February;March;November;December,,,180,20,2723,58,13,,
+Canal Beagle,Argentina,National Antarctic Directorate,In Service,January;February;March,Cargo,,,17.5,"10,894",40,80,,
+Islas Malvinas,Argentina,National Antarctic Directorate,,,,,,,,,,,
+Puerto Argentino,Argentina,National Antarctic Directorate,In Service,January;February;March;December,,,81,16,2723,67,,https://comnap.quickbase.com/up/bmicj3ee9/a/r66/e15/v0/aviso_puerto_argentino.jpg,https://www.argentina.gob.ar/aviso-ara-puerto-argentino-21
+Puerto Deseado,Argentina,National Antarctic Directorate,In Service,,Research,,,13.2,2400,61,80,,
+Suboficial Castillo,Argentina,National Antarctic Directorate,,,,,,11.7,1789,64,,,
+Aurora Australis,Australia,Australian Antarctic Division,Decommissioned,January;February;March;October;November;December,Multi Purpose,,94.91,20.3,3091,27,116,https://comnap.quickbase.com/up/bmicj3ee9/a/r11/e15/v0/Aurora%20Australis.jpg,Wendy Pyper
+Everest,Australia,Australian Antarctic Division,In Service,January;February;March;December,Multi Purpose,,140,,"21,943",,100,https://comnap.quickbase.com/up/bmicj3ee9/a/r68/e15/v0/antarctic.jpg,MCS/AAD
 Investigator,Australia,Australian Antarctic Division,In Service,January;February;March,Research,,93.9,18.5,6082,20,40,,
-Nuyina (Under Construction),Australia,Australian Antarctic Division,Under Construction,,Cargo ; Research ; Supply,,160.3,25.6,,32,117,https://pgc.quickbase.com/up/bmicj3ee9/a/r51/e15/v0/Nuyina.png, Damen/DMS Maritime/Knud E Hansen A/S
-Almirante Maximiano,Brazil,Brazilian Antarctic Programme,In Service,January;February;March;November;December,,,93.4,13.4,5450,78,30,https://pgc.quickbase.com/up/bmicj3ee9/a/r6/e15/v0/Aerial%20View%20of%20the%20Antarctic%20Modules%20Emergency%20-%20With%20ice_PROANTAR.JPG,PROANTAR
-Ary Rongel,Brazil,Brazilian Antarctic Programme,In Service,January;February;March;October;November;December,Research,,75.2,13,3700,78,27,,
+Nuyina ,Australia,Australian Antarctic Division,In Service,,Cargo ; Research ; Supply,,160.3,25.6,,32,117,https://comnap.quickbase.com/up/bmicj3ee9/a/r51/e15/v0/Nuyina.png, Damen/DMS Maritime/Knud E Hansen A/S
+Almirante Maximiano,Brazil,Brazilian Antarctic Programme,In Service,January;February;March;November;December,,,93.4,13.4,5450,78,30,https://comnap.quickbase.com/up/bmicj3ee9/a/r6/e15/v0/Aerial%20View%20of%20the%20Antarctic%20Modules%20Emergency%20-%20With%20ice_PROANTAR.JPG,PROANTAR
+Ary Rongel,Brazil,Brazilian Antarctic Programme,In Service,January;February;March;November;December,Research,,75.2,13,3700,78,27,,
 Antarctic Warrior,Chile,Chilean Antarctic Institute,In Service,,Cargo,,82.95,,2960,,,,
 Antarctica I,Chile,Chilean Antarctic Institute,Under Construction,,,,,,,,,,
-Aquiles,Chile,Chilean Antarctic Institute,In Service,January;February;March,Cargo ; Multi Purpose ; Patrol ; Research ; Supply,,103,17,4760,108,168,https://pgc.quickbase.com/up/bmicj3ee9/a/r7/e15/v0/Aquiles.jpg,"Chilean Navy, https://www.armada.cl/armada/unidades-navales/superficie/transporte-de-personal-y-carga/ap-41-aquiles/2014-04-16/101442.html"
+Aquiles,Chile,Chilean Antarctic Institute,In Service,March;November,Cargo ; Multi Purpose ; Patrol ; Research ; Supply,,103,17,4760,108,168,https://comnap.quickbase.com/up/bmicj3ee9/a/r7/e15/v0/Aquiles.jpg,"Chilean Navy, https://www.armada.cl/armada/unidades-navales/superficie/transporte-de-personal-y-carga/ap-41-aquiles/2014-04-16/101442.html"
 Galvarino,Chile,Chilean Antarctic Institute,,,,,,,,,,,
 Karpuj,Chile,Chilean Antarctic Institute,In Service,January;February;March;December,,,,,,,,,
-Lautaro,Chile,Chilean Antarctic Institute,In Service,January;February;March;April;November;December,Cargo ; Multi Purpose ; Patrol ; Research ; Supply ; Survey,,58.3,12.63,2250,35,12,https://pgc.quickbase.com/up/bmicj3ee9/a/r24/e15/v0/Lautaro.jpg,"Chilean Navy, https://www.armada.cl/armada/unidades-navales/superficie/remolcadores-de-flota/atf-67-lautaro/2014-04-16/122553.html"
-Marinero Fuentealba,Chile,Chilean Antarctic Institute,In Service,January;February;March;April;November;December,Cargo ; Multi Purpose ; Research ; Supply ; Offshore Patrol Vessel,,80.6,13,1771.6,,,https://pgc.quickbase.com/up/bmicj3ee9/a/r26/e15/v0/Marinero%20Fuentealba.jpg,"Chilean Navy, https://www.armada.cl/armada/unidades-navales/superficie/patrulleros-de-zona-maritima/opv-83-marinero-fuentealba/2014-10-29/112345.html"
-Oscar Viel,Chile,Chilean Antarctic Institute,,,,,89.91,19.5,7553,112,18,https://pgc.quickbase.com/up/bmicj3ee9/a/r31/e15/v0/viel.jpg,INACH
-Sargento Aldea,Chile,Chilean Antarctic Institute,In Service,November;December,Supply ; Tanker; Hospital,,168,23.5,"12,000",248,300,https://pgc.quickbase.com/up/bmicj3ee9/a/r62/e15/v0/LSDH%2091%20Sargento%20Aldea.jpg,
+Lautaro,Chile,Chilean Antarctic Institute,In Service,January;February;March;April;November;December,Cargo ; Multi Purpose ; Patrol ; Research ; Supply ; Survey,,58.3,12.63,2250,35,12,https://comnap.quickbase.com/up/bmicj3ee9/a/r24/e15/v0/Lautaro.jpg,"Chilean Navy, https://www.armada.cl/armada/unidades-navales/superficie/remolcadores-de-flota/atf-67-lautaro/2014-04-16/122553.html"
+Marinero Fuentealba,Chile,Chilean Antarctic Institute,In Service,January;February;March,Cargo ; Multi Purpose ; Research ; Supply ; Offshore Patrol Vessel,,80.6,13,1771.6,,,https://comnap.quickbase.com/up/bmicj3ee9/a/r26/e15/v0/Marinero%20Fuentealba.jpg,"Chilean Navy, https://www.armada.cl/armada/unidades-navales/superficie/patrulleros-de-zona-maritima/opv-83-marinero-fuentealba/2014-10-29/112345.html"
+Oscar Viel,Chile,Chilean Antarctic Institute,,,,,89.91,19.5,7553,112,18,https://comnap.quickbase.com/up/bmicj3ee9/a/r31/e15/v0/viel.jpg,INACH
+Sargento Aldea,Chile,Chilean Antarctic Institute,In Service,November;December,Supply ; Tanker; Hospital,,168,23.5,"12,000",248,300,https://comnap.quickbase.com/up/bmicj3ee9/a/r62/e15/v0/LSDH%2091%20Sargento%20Aldea.jpg,
 Xiangyanghong 01,China,Chinese Arctic and Antarctica Administration,In Service,,Research,,,,,,,,
-Xuelong,China,Chinese Arctic and Antarctica Administration,In Service,January;February;December,Multi Purpose,,167,22.6,"15,352",40,80,https://pgc.quickbase.com/up/bmicj3ee9/a/r43/e15/v0/Xuelong.jpg,PRIC
-Xuelong 2,China,Chinese Arctic and Antarctica Administration,In Service,January;February;November;December,Multi Purpose,Polar Class 3,,,,41,49,,
-L'Astrolabe,France,French Polar Institute,In Service,January;February;March;November;December,,,72,16,1200,,,https://pgc.quickbase.com/up/bmicj3ee9/a/r22/e15/v0/Astrolabe.jpg,IPEV
-Marion Dufresne,France,French Polar Institute,In Service,,,,120.5,20.6,"10,380",,,https://pgc.quickbase.com/up/bmicj3ee9/a/r27/e15/v0/Marion%20Dufresne.jpg,IPEV
-Polarstern,Germany,Alfred Wegener Institute,In Service,January;February;March;April;May;December,,,118,25,"11,820",44,55,https://pgc.quickbase.com/up/bmicj3ee9/a/r34/e15/v0/Polarstern.jpg,AWI
+Xuelong,China,Chinese Arctic and Antarctica Administration,In Service,January;February;March;April;November;December,Multi Purpose,,167,22.6,"15,352",40,80,https://comnap.quickbase.com/up/bmicj3ee9/a/r43/e15/v0/Xuelong.jpg,PRIC
+Xuelong 2,China,Chinese Arctic and Antarctica Administration,In Service,January;February;March;November;December,Multi Purpose,Polar Class 3,,,,41,49,,
+L'Astrolabe,France,French Polar Institute,In Service,January;February;March;November;December,Polar Logistic Vessel,,72,16,1200,22,42,https://comnap.quickbase.com/up/bmicj3ee9/a/r22/e15/v0/Astrolabe.jpg,IPEV
+Marion Dufresne,France,French Polar Institute,In Service,,,,120.5,20.6,"10,380",,,https://comnap.quickbase.com/up/bmicj3ee9/a/r27/e15/v0/Marion%20Dufresne.jpg,IPEV
+Polarstern,Germany,Alfred Wegener Institute,In Service,January;February;March;April;May;October;November;December,Icebreaker ; Research,,118,25,"11,820",44,55,https://comnap.quickbase.com/up/bmicj3ee9/a/r34/e15/v0/Polarstern.jpg,AWI
 Polarstern II (Under Construction),Germany,Alfred Wegener Institute,Under Construction,,,,,,,,,,
-Ivan Papanin,India,National Centre for Polar and Ocean Research,Decommissioned,,Cargo,,,,,,,https://pgc.quickbase.com/up/bmicj3ee9/a/r19/e15/v0/Indian%20Barrier%20Ship_National%20Centre%20for%20Antarctic%20and%20Ocean%20Research.jpg,NCAOR
+Ivan Papanin,India,National Centre for Polar and Ocean Research,Decommissioned,,Cargo,,,,,,,https://comnap.quickbase.com/up/bmicj3ee9/a/r19/e15/v0/Indian%20Barrier%20Ship_National%20Centre%20for%20Antarctic%20and%20Ocean%20Research.jpg,NCAOR
 Vasiliy Golovnin,India,National Centre for Polar and Ocean Research,In Service,January;February;March;April;December,Cargo,,,,"13,514",,,,
-Happy Delta,Italy,Programma Nazionale Di Ricerche in Antartide,,,Cargo ; Multi Purpose,,156.93,,,,,,
-Italica,Italy,Programma Nazionale Di Ricerche in Antartide,Decommissioned,,,,130,,,27,90,https://pgc.quickbase.com/up/bmicj3ee9/a/r18/e15/v0/Italica.jpg,"ENEA (National Agency for New Technologies, Energy and a Sustainable Economic Development)"
-Laura Bassi,Italy,Programma Nazionale Di Ricerche in Antartide,In Service,January;February;December,Research,,80,,4028,22,50,,
-OGS Explora,Italy,Programma Nazionale Di Ricerche in Antartide,,,Research,,72.62,,1400,18,26,,
-Hakuho-Maru,Japan,National Institute of Polar Research,In Service,,Patrol,,,,,,,,
-Shirase,Japan,National Institute of Polar Research,In Service,January;February;March;December,Research ; Supply,Polar Class 5,138,28,"12,650",179,80,https://pgc.quickbase.com/up/bmicj3ee9/a/r38/e15/v0/Shirase.jpg,NIPR
+Happy Delta,Italy,Italian National Antarctic Program,,,Cargo ; Multi Purpose,,156.93,,,,,,
+Italica,Italy,Italian National Antarctic Program,Decommissioned,,,,130,,,27,90,https://comnap.quickbase.com/up/bmicj3ee9/a/r18/e15/v0/Italica.jpg,"ENEA (National Agency for New Technologies, Energy and a Sustainable Economic Development)"
+Laura Bassi,Italy,Italian National Antarctic Program,In Service,January;February;December,Research,Polar Class 5,80,,4028,22,50,,
+OGS Explora,Italy,Italian National Antarctic Program,Decommissioned,,Research,,72.62,,1400,18,26,,
+Shirase,Japan,National Institute of Polar Research,In Service,January;February;November;December,Research ; Supply,Polar Class 5,138,28,"12,650",179,80,https://comnap.quickbase.com/up/bmicj3ee9/a/r38/e15/v0/Shirase.jpg,NIPR
 Umitaka-Maru,Japan,National Institute of Polar Research,In Service,,Research,,,,,,,,
-Tangaroa,New Zealand,Antarctica New Zealand,In Service,,,,70,,,,,https://pgc.quickbase.com/up/bmicj3ee9/a/r40/e15/v0/Tangaroa.jpg,Peter Marriott ©Antarctica New Zealand Pictorial Collection
-Kronprins Haakon,Norway,Norwegian Polar Institute,In Service,,Multi Purpose ; Research,Polar Class 3,100,21,9145,17,35,https://pgc.quickbase.com/up/bmicj3ee9/a/r49/e15/v0/Kronprins%20Haakon.jpg,Norwegian Polar Institute
+Tangaroa,New Zealand,Antarctica New Zealand,In Service,January;February,Research ; DNV - 1A1 (stern trawler/research vessel) + DYNPOS AUTR,,70,13.8,2291,,,https://comnap.quickbase.com/up/bmicj3ee9/a/r40/e15/v0/Tangaroa.jpg,Peter Marriott ©Antarctica New Zealand Pictorial Collection
+Kronprins Haakon,Norway,Norwegian Polar Institute,In Service,January;December,Multi Purpose ; Research,Polar Class 3,100,21,9145,17,35,https://comnap.quickbase.com/up/bmicj3ee9/a/r49/e15/v0/Kronprins%20Haakon.jpg,Norwegian Polar Institute
+Malik Arctica,Norway,Norwegian Polar Institute,In Service,January,Cargo,Polar Class 5,"10,794",,"10,537",17,,,
 Mary Arctica,Norway,Norwegian Polar Institute,In Service,January,Cargo,,112.94,23.3,"10,308",,,,
-Carrasco,Peru,Antarctic Affairs Division,In Service,January;February;December,Cargo ; Research,Polar Class 7,95.3,18,,50,60,https://pgc.quickbase.com/up/bmicj3ee9/a/r54/e15/v0/Carrasco.jpg,
-Humboldt,Peru,Antarctic Affairs Division,Decommissioned,,,,,,,,,https://pgc.quickbase.com/up/bmicj3ee9/a/r17/e15/v0/Humboult.jpg,
-Araon,Republic of Korea,Korea Polar Research Institute,In Service,January;February;March;November;December,Research,Polar Class 5,111,19,7487,25,60,https://pgc.quickbase.com/up/bmicj3ee9/a/r8/e15/v0/JangBogo%20landscape_KOPRI_Mar2014.JPG,KOPRI
-Admiral Vladimirsky,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,January;February;March;April,Research,,,,,82,42,,
-Akademik Aleksandr Karpinskiy,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,,Research,,104.5,16.03,4430,92,49,,
-Akademik Fedorov,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,January;February;March;April;December,Cargo ; Research,,141.2,23.5,"12,660",90,160,https://pgc.quickbase.com/up/bmicj3ee9/a/r4/e15/v0/Akademik_Fedorov.jpg,Russian Antarctic Expedition
-Akademik Tryoshnikov,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,,Cargo ; Research,Polar Class 4,133.53,23.25,"12,701",60,80,https://pgc.quickbase.com/up/bmicj3ee9/a/r1/e15/v0/Akademik_Tryoshnikov.jpg,AARI/RAE
-Marshal Gelovani,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,January;February;March;April,Research,,,,,47,16,,
-Polar Pioneer,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,,April;October,,,,,,,,,
-Yantar,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,January;February,,,108,15,5736,71,16,,
-Agulhas II,South Africa,South African National Antarctic Programme,In Service,January;February;March;December,Research ; Supply,Polar Class 5,134,22,"13,687",45,100,https://pgc.quickbase.com/up/bmicj3ee9/a/r2/e15/v0/AgulhusII_SANAP.JPG,SANAP
-Hesperides,Spain,Spanish Polar Committee,In Service,January;February;March;December,Multi Purpose ; Research,,82.5,14.3,2827,48,37,https://pgc.quickbase.com/up/bmicj3ee9/a/r16/e15/v0/Hesperides.png,UTM-CSIC
-Sarmiento de Gamboa,Spain,Spanish Polar Committee,In Service,,Research,,,,,,,https://pgc.quickbase.com/up/bmicj3ee9/a/r37/e15/v0/Sarmiento%20de%20Gamboa.png,UTM-CSIC
-Betanzos,Turkey,"TUBITAK Marmara Research Center, Polar Research Institute",In Service,,Research ; Survey,,72.05,,1438,,,,
-Ernest Shackleton,United Kingdom,British Antarctic Survey,Decommissioned,,Cargo ; Research,,,,4028,,,https://pgc.quickbase.com/up/bmicj3ee9/a/r13/e15/v0/Ernest%20Shackleton.jpg,BAS
-James Clark Ross,United Kingdom,British Antarctic Survey,In Service,January;February;April;May;December,Research,,,,5732,,,https://pgc.quickbase.com/up/bmicj3ee9/a/r20/e15/v0/James%20Clark%20Ross.jpg,BAS
+Silver Arctic,Norway,Norwegian Polar Institute,In Service,January;December,,,,,,,,,
+Carrasco,Peru,Antarctic Affairs Division,In Service,January;February;December,Cargo ; Research,Polar Class 7,95.3,18,,50,60,https://comnap.quickbase.com/up/bmicj3ee9/a/r54/e15/v0/Carrasco.jpg,
+Humboldt,Peru,Antarctic Affairs Division,Decommissioned,,,,,,,,,https://comnap.quickbase.com/up/bmicj3ee9/a/r17/e15/v0/Humboult.jpg,
+ARAON,Republic of Korea,Korea Polar Research Institute,In Service,January;February;March;October;November;December,Research,Polar Class 5,111,19,7487,25,60,https://comnap.quickbase.com/up/bmicj3ee9/a/r8/e15/v0/JangBogo%20landscape_KOPRI_Mar2014.JPG,KOPRI
+Akademik Aleksandr Karpinskiy,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,January;February;March,Research,,104.5,16.03,4430,92,49,,
+Akademik Fedorov,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,March;April;May,Cargo ; Research,Polar Class 3,141.2,23.5,"12,660",90,160,https://comnap.quickbase.com/up/bmicj3ee9/a/r4/e15/v0/Akademik_Fedorov.jpg,Russian Antarctic Expedition
+Akademik Ioffe,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,January;February;March,Research,Polar Class 6,117.1,18.2,6450,43,127,https://comnap.quickbase.com/up/bmicj3ee9/a/r75/e15/v0/Akademik%20Ioffe.jpg,Shirshov Institute of Oceanology of Russian Academy of Sciences
+Akademik Tryoshnikov,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,January;February;March;November;December,Cargo ; Research,Polar Class 3,133.53,23.25,"12,701",60,80,https://comnap.quickbase.com/up/bmicj3ee9/a/r1/e15/v0/Akademik_Tryoshnikov.jpg,AARI/RAE
+Andrey Osipov,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,,November,Cargo,Polar Class 5,132.7,19.86,"11,753",16,20,https://comnap.quickbase.com/up/bmicj3ee9/a/r71/e15/v0/Andrey%20Osipov.jpg,Eco Shipping
+Kapitan Khlebnikov,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,November,Icebreaker,Polar Class 2,129.1,26.5,"14,917",59,114,https://comnap.quickbase.com/up/bmicj3ee9/a/r73/e15/v0/Kapitan%20Khlebnikov.jpg,FSUE “Rosmorport”
+Mys Dezhneva,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,November,Cargo,Polar Class 6,143,21.5,"22,882",14,6,https://comnap.quickbase.com/up/bmicj3ee9/a/r72/e15/v0/Mys%20Dezhneva.jpg,Eco Shipping
+Professor Logachev,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,January;February,Research,,104.5,16,4504,32,37,https://comnap.quickbase.com/up/bmicj3ee9/a/r76/e15/v0/Professor%20Logachev.jpg,Polar Marine Geosurvey Expedition (PMGE)
+Yaroslav Mudryy,Russia,The Arctic and Antarctic Research Institute / Russian Antarctic Expedition,In Service,November,Supply ; Oil tanker,Polar Class 6,123.7,17.7,"13,863",18,,,
+Agulhas II,South Africa,South African National Antarctic Programme,In Service,January;February;March;December,Research ; Supply,Polar Class 5,134,22,"13,687",45,100,https://comnap.quickbase.com/up/bmicj3ee9/a/r2/e15/v0/AgulhusII_SANAP.JPG,SANAP
+Hesperides,Spain,Spanish Polar Committee,In Service,January;February;March;April;December,Multi Purpose ; Research ; Supply,,82.5,14.3,2827,55,37,https://comnap.quickbase.com/up/bmicj3ee9/a/r16/e15/v0/Hesperides.png,UTM-CSIC
+Sarmiento de Gamboa,Spain,Spanish Polar Committee,In Service,January;February;March;November;December,Multi Purpose ; Research ; Supply,,735,155,1979,16,26,https://comnap.quickbase.com/up/bmicj3ee9/a/r37/e15/v0/Sarmiento%20de%20Gamboa.png,UTM-CSIC
+Betanzos,Türkiye,"TUBITAK Marmara Research Center, Polar Research Institute",In Service,,Research ; Survey,,72.05,,1438,,,,
+TCG ISIN,Türkiye,"TUBITAK Marmara Research Center, Polar Research Institute",In Service,January;February;March;December,Survey ; Auxillary Rescue Ship,,68,14,,82,24,https://comnap.quickbase.com/up/bmicj3ee9/a/r77/e15/v0/isin.jpg,Istanbul Shipyard
+Noosfera,Ukraine,National Antarctic Scientific Centre of Ukraine,In Service,January;February;March;April;December,Research,,9904,1885,5732,26-30,46-50  (research personnel),https://comnap.quickbase.com/up/bmicj3ee9/a/r79/e15/v0/Noosfera_1.jpg,the NASC archive
+Ernest Shackleton,United Kingdom,British Antarctic Survey,Decommissioned,,Cargo ; Research,,,,4028,,,https://comnap.quickbase.com/up/bmicj3ee9/a/r13/e15/v0/Ernest%20Shackleton.jpg,BAS
 Protector,United Kingdom,British Antarctic Survey,In Service,January;February;March,Supply ; Survey,,89,18,5000,100,12,,
-Sir David Attenborough (Under Construction),United Kingdom,British Antarctic Survey,Under Construction,,Cargo ; Multi Purpose ; Research ; Supply,,128,24,"15,000",30,60,https://pgc.quickbase.com/up/bmicj3ee9/a/r50/e15/v0/Sir%20David%20Attenborough.jpg,BAS
+Sir David Attenborough,United Kingdom,British Antarctic Survey,In Service,,Cargo ; Multi Purpose ; Research ; Supply,,128,24,"15,000",30,60,https://comnap.quickbase.com/up/bmicj3ee9/a/r50/e15/v0/Sir%20David%20Attenborough.jpg,BAS
 Joides Resolution,United States,National Science Foundation,In Service,,Research,,,,,,,,
-Laurence M. Gould,United States,National Science Foundation,In Service,January;February;March;April;October;November;December,Research,,70.1,14.02,3780,16,28,https://pgc.quickbase.com/up/bmicj3ee9/a/r23/e15/v0/Laurence%20M%20Gould.jpg,NSF/USAP photo by Andrew V. Williams
-Maersk Peary,United States,National Science Foundation,In Service,February,Fuel Tanker,,,,,,,https://pgc.quickbase.com/up/bmicj3ee9/a/r25/e15/v0/Maersk%20Peary%20and%20Polar%20Star.jpg,NSF photo by Peter Rejcek
-Nathaniel B. Palmer,United States,National Science Foundation,In Service,January;February;March;June;July;August;September;November;December,Research,,93.9,18.3,6800,26,39,https://pgc.quickbase.com/up/bmicj3ee9/a/r29/e15/v0/Nathaniel%20B.%20Palmer.jpg,NSF photo by Holly Gingles
+Laurence M. Gould,United States,National Science Foundation,In Service,January;February;March;April;May;June;July;August;September;October;November;December,Research,,70.1,14.02,3780,16,27,https://comnap.quickbase.com/up/bmicj3ee9/a/r23/e15/v0/Laurence%20M%20Gould.jpg,NSF/USAP photo by Andrew V. Williams
+Maersk Peary,United States,National Science Foundation,In Service,February,Fuel Tanker,,,,,,,https://comnap.quickbase.com/up/bmicj3ee9/a/r25/e15/v0/Maersk%20Peary%20and%20Polar%20Star.jpg,NSF photo by Peter Rejcek
+Nathaniel B. Palmer,United States,National Science Foundation,In Service,January;February;March;April;May;June;July;August;September;November;December,Research,,93.9,18.3,6800,26,39,https://comnap.quickbase.com/up/bmicj3ee9/a/r29/e15/v0/Nathaniel%20B.%20Palmer.jpg,NSF photo by Holly Gingles
 Ocean Giant,United States,National Science Foundation,In Service,January;February,Cargo,,,,,,,,
-Polar Star,United States,National Science Foundation,In Service,January;February,Icebreaker,,122,,,154,20,https://pgc.quickbase.com/up/bmicj3ee9/a/r33/e15/v0/Maersk%20Peary%20and%20Polar%20Star.jpg,NSF photo by Peter Rejcek
-Artigas,Uruguay,Uruguayan Antarctic Institute,In Service,,Multi Purpose,,118.3,13.2,3900,110,50,https://pgc.quickbase.com/up/bmicj3ee9/a/r9/e15/v0/Artigas.jpg,IAU
-Oyarvide,Uruguay,Uruguayan Antarctic Institute,,,Research,,68,12.75,,60,15,https://pgc.quickbase.com/up/bmicj3ee9/a/r32/e15/v0/Oyarbide.jpg,IAU
-Vanguardia,Uruguay,Uruguayan Antarctic Institute,In Service,January,Logistic,,72.62,12.03,1872,65,15,https://pgc.quickbase.com/up/bmicj3ee9/a/r42/e15/v0/Vanguardia.jpg,IAU
+Polar Star,United States,National Science Foundation,In Service,January;February,Icebreaker,,122,,,154,20,https://comnap.quickbase.com/up/bmicj3ee9/a/r33/e15/v0/Maersk%20Peary%20and%20Polar%20Star.jpg,NSF photo by Peter Rejcek
+Artigas,Uruguay,Uruguayan Antarctic Institute,In Service,,Multi Purpose,,118.3,13.2,3900,110,50,https://comnap.quickbase.com/up/bmicj3ee9/a/r9/e15/v0/Artigas.jpg,IAU
+Oyarvide,Uruguay,Uruguayan Antarctic Institute,,,Research,,68,12.75,,60,15,https://comnap.quickbase.com/up/bmicj3ee9/a/r32/e15/v0/Oyarbide.jpg,IAU
+Vanguardia,Uruguay,Uruguayan Antarctic Institute,In Service,January,Logistic,,72.62,12.03,1872,65,15,https://comnap.quickbase.com/up/bmicj3ee9/a/r42/e15/v0/Vanguardia.jpg,IAU
